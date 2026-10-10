@@ -15,7 +15,7 @@ import type {
   ScenarioUpdate,
 } from '../types'
 
-const BASE = '/api'
+const BASE = import.meta.env.VITE_API_URL || '/api'
 const TOKEN_KEY = 'qresue_token'
 
 export function getToken(): string | null {
@@ -256,3 +256,4 @@ export const api = {
       body: JSON.stringify({ ration_per_person: rationPerPerson, planning_days: planningDays }),
     }),
 }
+
