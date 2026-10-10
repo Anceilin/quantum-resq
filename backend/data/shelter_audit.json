@@ -1,0 +1,724 @@
+[
+  {
+    "id": "sa_1791607001.954",
+    "scenario_id": "scn_f2e75c16",
+    "timestamp": "04:36:41 AM",
+    "user_email": "u_1791607000045053000@test.local",
+    "type": "intake",
+    "description": "Intake of 10 people in Foxtrot",
+    "details": {
+      "zone_id": "zone_foxtrot",
+      "count": 10
+    }
+  },
+  {
+    "id": "sa_1791607004.806",
+    "scenario_id": "scn_cc46ad35",
+    "timestamp": "04:36:44 AM",
+    "user_email": "u_1791607002981830500@test.local",
+    "type": "bed_request",
+    "description": "Requested 50 beds for Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607007.332",
+    "scenario_id": "scn_5c334ce4",
+    "timestamp": "04:36:47 AM",
+    "user_email": "u_1791607005048357800@test.local",
+    "type": "food_receive",
+    "description": "Received 100.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607009.064",
+    "scenario_id": "scn_db1bfa14",
+    "timestamp": "04:36:49 AM",
+    "user_email": "u_1791607007438712900@test.local",
+    "type": "food_add",
+    "description": "Added food item Grains (200.0 kg)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607009.510",
+    "scenario_id": "scn_db1bfa14",
+    "timestamp": "04:36:49 AM",
+    "user_email": "u_1791607007438712900@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791607191.595",
+    "scenario_id": "scn_7e5f8eb3",
+    "timestamp": "04:39:51 AM",
+    "user_email": "u_1791607189799403500@test.local",
+    "type": "intake",
+    "description": "Intake of 10 people in Foxtrot",
+    "details": {
+      "zone_id": "zone_foxtrot",
+      "count": 10
+    }
+  },
+  {
+    "id": "sa_1791607195.528",
+    "scenario_id": "scn_5072ed7c",
+    "timestamp": "04:39:55 AM",
+    "user_email": "u_1791607193896752900@test.local",
+    "type": "bed_request",
+    "description": "Requested 50 beds for Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607198.549",
+    "scenario_id": "scn_4b0dc42d",
+    "timestamp": "04:39:58 AM",
+    "user_email": "u_1791607196459144200@test.local",
+    "type": "food_receive",
+    "description": "Received 100.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607200.481",
+    "scenario_id": "scn_a7f93645",
+    "timestamp": "04:40:00 AM",
+    "user_email": "u_1791607198683926500@test.local",
+    "type": "food_add",
+    "description": "Added food item Grains (200.0 kg)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607200.948",
+    "scenario_id": "scn_a7f93645",
+    "timestamp": "04:40:00 AM",
+    "user_email": "u_1791607198683926500@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791607203.027",
+    "scenario_id": "scn_129aad36",
+    "timestamp": "04:40:03 AM",
+    "user_email": "u_1791607201131383800@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791607203.443",
+    "scenario_id": "scn_129aad36",
+    "timestamp": "04:40:03 AM",
+    "user_email": "u_1791607201131383800@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Bravo",
+    "details": {
+      "zone_id": "zone_bravo"
+    }
+  },
+  {
+    "id": "sa_1791607203.877",
+    "scenario_id": "scn_129aad36",
+    "timestamp": "04:40:03 AM",
+    "user_email": "u_1791607201131383800@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Charlie",
+    "details": {
+      "zone_id": "zone_charlie"
+    }
+  },
+  {
+    "id": "sa_1791607274.207",
+    "scenario_id": "scn_2a0f2d2e",
+    "timestamp": "04:41:14 AM",
+    "user_email": "u_1791607272316976300@test.local",
+    "type": "intake",
+    "description": "Intake of 10 people in Foxtrot",
+    "details": {
+      "zone_id": "zone_foxtrot",
+      "count": 10
+    }
+  },
+  {
+    "id": "sa_1791607276.823",
+    "scenario_id": "scn_f7890a5a",
+    "timestamp": "04:41:16 AM",
+    "user_email": "u_1791607275303996000@test.local",
+    "type": "bed_request",
+    "description": "Requested 50 beds for Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607277.244",
+    "scenario_id": "scn_f7890a5a",
+    "timestamp": "04:41:17 AM",
+    "user_email": "u_1791607275303996000@test.local",
+    "type": "bed_deploy",
+    "description": "Deployed 50 beds to Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607279.544",
+    "scenario_id": "scn_cab3972d",
+    "timestamp": "04:41:19 AM",
+    "user_email": "u_1791607277375781200@test.local",
+    "type": "food_receive",
+    "description": "Received 100.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607282.271",
+    "scenario_id": "scn_def1109c",
+    "timestamp": "04:41:22 AM",
+    "user_email": "u_1791607279681787100@test.local",
+    "type": "food_add",
+    "description": "Added food item Grains (200.0 kg)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607282.828",
+    "scenario_id": "scn_def1109c",
+    "timestamp": "04:41:22 AM",
+    "user_email": "u_1791607279681787100@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791607285.783",
+    "scenario_id": "scn_4bdb46a8",
+    "timestamp": "04:41:25 AM",
+    "user_email": "u_1791607283016043100@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791607286.299",
+    "scenario_id": "scn_4bdb46a8",
+    "timestamp": "04:41:26 AM",
+    "user_email": "u_1791607283016043100@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Bravo",
+    "details": {
+      "zone_id": "zone_bravo"
+    }
+  },
+  {
+    "id": "sa_1791607286.859",
+    "scenario_id": "scn_4bdb46a8",
+    "timestamp": "04:41:26 AM",
+    "user_email": "u_1791607283016043100@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Charlie",
+    "details": {
+      "zone_id": "zone_charlie"
+    }
+  },
+  {
+    "id": "sa_1791607349.082",
+    "scenario_id": "scn_d83b67e3",
+    "timestamp": "04:42:29 AM",
+    "user_email": "u_1791607347170432300@test.local",
+    "type": "intake",
+    "description": "Intake of 10 people in Foxtrot",
+    "details": {
+      "zone_id": "zone_foxtrot",
+      "count": 10
+    }
+  },
+  {
+    "id": "sa_1791607350.901",
+    "scenario_id": "scn_75104d87",
+    "timestamp": "04:42:30 AM",
+    "user_email": "u_1791607349335472200@test.local",
+    "type": "bed_request",
+    "description": "Requested 50 beds for Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607351.341",
+    "scenario_id": "scn_75104d87",
+    "timestamp": "04:42:31 AM",
+    "user_email": "u_1791607349335472200@test.local",
+    "type": "bed_deploy",
+    "description": "Deployed 50 beds to Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607353.463",
+    "scenario_id": "scn_f462aac6",
+    "timestamp": "04:42:33 AM",
+    "user_email": "u_1791607351438383900@test.local",
+    "type": "food_receive",
+    "description": "Received 100.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607355.481",
+    "scenario_id": "scn_97b52888",
+    "timestamp": "04:42:35 AM",
+    "user_email": "u_1791607353598967200@test.local",
+    "type": "food_add",
+    "description": "Added food item Grains (200.0 kg)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607355.981",
+    "scenario_id": "scn_97b52888",
+    "timestamp": "04:42:35 AM",
+    "user_email": "u_1791607353598967200@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791607358.457",
+    "scenario_id": "scn_22d5adf5",
+    "timestamp": "04:42:38 AM",
+    "user_email": "u_1791607356164065900@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791607358.939",
+    "scenario_id": "scn_22d5adf5",
+    "timestamp": "04:42:38 AM",
+    "user_email": "u_1791607356164065900@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Bravo",
+    "details": {
+      "zone_id": "zone_bravo"
+    }
+  },
+  {
+    "id": "sa_1791607359.386",
+    "scenario_id": "scn_22d5adf5",
+    "timestamp": "04:42:39 AM",
+    "user_email": "u_1791607356164065900@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Charlie",
+    "details": {
+      "zone_id": "zone_charlie"
+    }
+  },
+  {
+    "id": "sa_1791607458.028",
+    "scenario_id": "scn_5bdca791",
+    "timestamp": "04:44:18 AM",
+    "user_email": "u_1791607456308086400@test.local",
+    "type": "intake",
+    "description": "Intake of 10 people in Foxtrot",
+    "details": {
+      "zone_id": "zone_foxtrot",
+      "count": 10
+    }
+  },
+  {
+    "id": "sa_1791607460.012",
+    "scenario_id": "scn_14990bc4",
+    "timestamp": "04:44:20 AM",
+    "user_email": "u_1791607458281676600@test.local",
+    "type": "bed_request",
+    "description": "Requested 50 beds for Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607460.478",
+    "scenario_id": "scn_14990bc4",
+    "timestamp": "04:44:20 AM",
+    "user_email": "u_1791607458281676600@test.local",
+    "type": "bed_deploy",
+    "description": "Deployed 50 beds to Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607462.960",
+    "scenario_id": "scn_d04ed788",
+    "timestamp": "04:44:22 AM",
+    "user_email": "u_1791607460616733200@test.local",
+    "type": "food_receive",
+    "description": "Received 100.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607464.908",
+    "scenario_id": "scn_216fb19f",
+    "timestamp": "04:44:24 AM",
+    "user_email": "u_1791607463100345300@test.local",
+    "type": "food_add",
+    "description": "Added food item Grains (200.0 kg)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791607465.542",
+    "scenario_id": "scn_216fb19f",
+    "timestamp": "04:44:25 AM",
+    "user_email": "u_1791607463100345300@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791607467.711",
+    "scenario_id": "scn_0d04d148",
+    "timestamp": "04:44:27 AM",
+    "user_email": "u_1791607465736945600@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791607468.202",
+    "scenario_id": "scn_0d04d148",
+    "timestamp": "04:44:28 AM",
+    "user_email": "u_1791607465736945600@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Bravo",
+    "details": {
+      "zone_id": "zone_bravo"
+    }
+  },
+  {
+    "id": "sa_1791607468.646",
+    "scenario_id": "scn_0d04d148",
+    "timestamp": "04:44:28 AM",
+    "user_email": "u_1791607465736945600@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Charlie",
+    "details": {
+      "zone_id": "zone_charlie"
+    }
+  },
+  {
+    "id": "sa_1791608794.577",
+    "scenario_id": "scn_demo",
+    "timestamp": "05:06:34 AM",
+    "user_email": "divakar@gmail.com",
+    "type": "intake",
+    "description": "Intake of 10 people in Alpha",
+    "details": {
+      "zone_id": "zone_alpha",
+      "count": 10
+    }
+  },
+  {
+    "id": "sa_1791608846.256",
+    "scenario_id": "scn_demo",
+    "timestamp": "05:07:26 AM",
+    "user_email": "divakar@gmail.com",
+    "type": "intake",
+    "description": "Intake of 120 people in Alpha",
+    "details": {
+      "zone_id": "zone_alpha",
+      "count": 120
+    }
+  },
+  {
+    "id": "sa_1791609847.648",
+    "scenario_id": "scn_823bce63",
+    "timestamp": "05:24:07 AM",
+    "user_email": "u_1791609846457896600@test.local",
+    "type": "intake",
+    "description": "Intake of 10 people in Foxtrot",
+    "details": {
+      "zone_id": "zone_foxtrot",
+      "count": 10
+    }
+  },
+  {
+    "id": "sa_1791609848.813",
+    "scenario_id": "scn_9d9dec4e",
+    "timestamp": "05:24:08 AM",
+    "user_email": "u_1791609847797249000@test.local",
+    "type": "bed_request",
+    "description": "Requested 50 beds for Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791609849.063",
+    "scenario_id": "scn_9d9dec4e",
+    "timestamp": "05:24:09 AM",
+    "user_email": "u_1791609847797249000@test.local",
+    "type": "bed_deploy",
+    "description": "Deployed 50 beds to Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791609850.343",
+    "scenario_id": "scn_01580b8d",
+    "timestamp": "05:24:10 AM",
+    "user_email": "u_1791609849141298500@test.local",
+    "type": "food_receive",
+    "description": "Received 100.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791609851.460",
+    "scenario_id": "scn_0864c3c7",
+    "timestamp": "05:24:11 AM",
+    "user_email": "u_1791609850417827600@test.local",
+    "type": "food_add",
+    "description": "Added food item Grains (200.0 kg)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791609851.743",
+    "scenario_id": "scn_0864c3c7",
+    "timestamp": "05:24:11 AM",
+    "user_email": "u_1791609850417827600@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791609852.683",
+    "scenario_id": "scn_3ca67f11",
+    "timestamp": "05:24:12 AM",
+    "user_email": "system",
+    "type": "optimization",
+    "description": "Generated shelter allocation proposal (6 zones)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791609852.946",
+    "scenario_id": "scn_3ca67f11",
+    "timestamp": "05:24:12 AM",
+    "user_email": "u_1791609851848394700@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791609853.163",
+    "scenario_id": "scn_3ca67f11",
+    "timestamp": "05:24:13 AM",
+    "user_email": "u_1791609851848394700@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Bravo",
+    "details": {
+      "zone_id": "zone_bravo"
+    }
+  },
+  {
+    "id": "sa_1791609853.440",
+    "scenario_id": "scn_3ca67f11",
+    "timestamp": "05:24:13 AM",
+    "user_email": "u_1791609851848394700@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Charlie",
+    "details": {
+      "zone_id": "zone_charlie"
+    }
+  },
+  {
+    "id": "sa_1791609853.480",
+    "scenario_id": "scn_3ca67f11",
+    "timestamp": "05:24:13 AM",
+    "user_email": "u_1791609851848394700@test.local",
+    "type": "optimization",
+    "description": "Applied shelter optimization proposal sprop_1791609852.683",
+    "details": {}
+  },
+  {
+    "id": "sa_1791610258.154",
+    "scenario_id": "scn_demo",
+    "timestamp": "05:30:58 AM",
+    "user_email": "divakar@gmail.com",
+    "type": "food_add",
+    "description": "Added food item Rice Bags (100.0 kg)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791610282.522",
+    "scenario_id": "scn_demo",
+    "timestamp": "05:31:22 AM",
+    "user_email": "divakar@gmail.com",
+    "type": "food_receive",
+    "description": "Received 100.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791611337.459",
+    "scenario_id": "scn_0b31716d",
+    "timestamp": "05:48:57 AM",
+    "user_email": "u_1791611336143237900@test.local",
+    "type": "food_receive",
+    "description": "Received 25.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791611337.845",
+    "scenario_id": "scn_0b31716d",
+    "timestamp": "05:48:57 AM",
+    "user_email": "u_1791611336143237900@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791611383.399",
+    "scenario_id": "scn_1b7f2d54",
+    "timestamp": "05:49:43 AM",
+    "user_email": "u_1791611382099803900@test.local",
+    "type": "food_receive",
+    "description": "Received 25.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791611383.875",
+    "scenario_id": "scn_1b7f2d54",
+    "timestamp": "05:49:43 AM",
+    "user_email": "u_1791611382099803900@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791611414.962",
+    "scenario_id": "scn_fe4faab3",
+    "timestamp": "05:50:14 AM",
+    "user_email": "u_1791611413933195900@test.local",
+    "type": "intake",
+    "description": "Intake of 10 people in Foxtrot",
+    "details": {
+      "zone_id": "zone_foxtrot",
+      "count": 10
+    }
+  },
+  {
+    "id": "sa_1791611416.027",
+    "scenario_id": "scn_e3175414",
+    "timestamp": "05:50:16 AM",
+    "user_email": "u_1791611415103244900@test.local",
+    "type": "bed_request",
+    "description": "Requested 50 beds for Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791611416.302",
+    "scenario_id": "scn_e3175414",
+    "timestamp": "05:50:16 AM",
+    "user_email": "u_1791611415103244900@test.local",
+    "type": "bed_deploy",
+    "description": "Deployed 50 beds to Foxtrot",
+    "details": {}
+  },
+  {
+    "id": "sa_1791611417.557",
+    "scenario_id": "scn_ac35e10c",
+    "timestamp": "05:50:17 AM",
+    "user_email": "u_1791611416394820300@test.local",
+    "type": "food_receive",
+    "description": "Received 100.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791611418.803",
+    "scenario_id": "scn_1fb5a672",
+    "timestamp": "05:50:18 AM",
+    "user_email": "u_1791611417643182900@test.local",
+    "type": "food_add",
+    "description": "Added food item Grains (200.0 kg)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791611419.120",
+    "scenario_id": "scn_1fb5a672",
+    "timestamp": "05:50:19 AM",
+    "user_email": "u_1791611417643182900@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791611420.141",
+    "scenario_id": "scn_6771fb70",
+    "timestamp": "05:50:20 AM",
+    "user_email": "system",
+    "type": "optimization",
+    "description": "Generated shelter allocation proposal (6 zones)",
+    "details": {}
+  },
+  {
+    "id": "sa_1791611420.460",
+    "scenario_id": "scn_6771fb70",
+    "timestamp": "05:50:20 AM",
+    "user_email": "u_1791611419224087200@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  },
+  {
+    "id": "sa_1791611420.718",
+    "scenario_id": "scn_6771fb70",
+    "timestamp": "05:50:20 AM",
+    "user_email": "u_1791611419224087200@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Bravo",
+    "details": {
+      "zone_id": "zone_bravo"
+    }
+  },
+  {
+    "id": "sa_1791611421.009",
+    "scenario_id": "scn_6771fb70",
+    "timestamp": "05:50:21 AM",
+    "user_email": "u_1791611419224087200@test.local",
+    "type": "food_distribute",
+    "description": "Distributed food to Charlie",
+    "details": {
+      "zone_id": "zone_charlie"
+    }
+  },
+  {
+    "id": "sa_1791611421.050",
+    "scenario_id": "scn_6771fb70",
+    "timestamp": "05:50:21 AM",
+    "user_email": "u_1791611419224087200@test.local",
+    "type": "optimization",
+    "description": "Applied shelter optimization proposal sprop_1791611420.141",
+    "details": {}
+  },
+  {
+    "id": "sa_1791611643.213",
+    "scenario_id": "scn_demo",
+    "timestamp": "05:54:03 AM",
+    "user_email": "divakar@gmail.com",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
+  }
+]

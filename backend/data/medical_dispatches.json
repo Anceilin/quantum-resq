@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "disp_1791562774.014",
+    "scenario_id": "scn_7c87a7b7",
+    "timestamp": "04:19:34 PM",
+    "user_email": "u_1791562772836304100@test.local",
+    "total_dispatched": 665,
+    "remaining_stock_after": 335,
+    "status": "Cancelled",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 160,
+        "demand_after": 160,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 170,
+        "demand_after": 40,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 130,
+        "demand_after": 50,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791562775.822",
+    "scenario_id": "scn_d0a297cd",
+    "timestamp": "04:19:35 PM",
+    "user_email": "u_1791562774135119900@test.local",
+    "total_dispatched": 665,
+    "remaining_stock_after": 335,
+    "status": "Delivered",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 160,
+        "demand_after": 160,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 170,
+        "demand_after": 40,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 130,
+        "demand_after": 50,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791562848.154",
+    "scenario_id": "scn_demo",
+    "timestamp": "04:20:48 PM",
+    "user_email": "persist_medical_coordinator_1791562847518168000@test.local",
+    "total_dispatched": 665,
+    "remaining_stock_after": 335,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 160,
+        "demand_after": 160,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 170,
+        "demand_after": 40,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 130,
+        "demand_after": 50,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791562891.324",
+    "scenario_id": "scn_f4766301",
+    "timestamp": "04:21:31 PM",
+    "user_email": "u_1791562890121782900@test.local",
+    "total_dispatched": 665,
+    "remaining_stock_after": 335,
+    "status": "Cancelled",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 160,
+        "demand_after": 160,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 170,
+        "demand_after": 40,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 130,
+        "demand_after": 50,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791562892.615",
+    "scenario_id": "scn_5308f910",
+    "timestamp": "04:21:32 PM",
+    "user_email": "u_1791562891472759400@test.local",
+    "total_dispatched": 665,
+    "remaining_stock_after": 335,
+    "status": "Delivered",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 160,
+        "demand_after": 160,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 170,
+        "demand_after": 40,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 130,
+        "demand_after": 50,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791562898.315",
+    "scenario_id": "scn_demo",
+    "timestamp": "04:21:38 PM",
+    "user_email": "persist_medical_coordinator_1791562897620820100@test.local",
+    "total_dispatched": 665,
+    "remaining_stock_after": 335,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 160,
+        "demand_after": 160,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 170,
+        "demand_after": 40,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 130,
+        "demand_after": 50,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791601935.201",
+    "scenario_id": "scn_demo",
+    "timestamp": "03:12:15 AM",
+    "user_email": "sanjay@gmail.com",
+    "total_dispatched": 665,
+    "remaining_stock_after": 335,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 160,
+        "demand_after": 160,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 61.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 170,
+        "demand_after": 40,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 56.8,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 130,
+        "demand_after": 50,
+        "status_after": "Partially Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 32.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791603150.485",
+    "scenario_id": "scn_bb8077cb",
+    "timestamp": "03:32:30 AM",
+    "user_email": "u_1791603148958062500@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Cancelled",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791603152.627",
+    "scenario_id": "scn_dbd99e82",
+    "timestamp": "03:32:32 AM",
+    "user_email": "u_1791603150860086100@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Delivered",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791603229.982",
+    "scenario_id": "scn_a884a90e",
+    "timestamp": "03:33:49 AM",
+    "user_email": "u_1791603227977380900@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Cancelled",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791603232.631",
+    "scenario_id": "scn_dbeca145",
+    "timestamp": "03:33:52 AM",
+    "user_email": "u_1791603230598973200@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Delivered",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791603303.823",
+    "scenario_id": "scn_cec03c66",
+    "timestamp": "03:35:03 AM",
+    "user_email": "u_1791603301936411300@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Cancelled",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791603306.541",
+    "scenario_id": "scn_43a16533",
+    "timestamp": "03:35:06 AM",
+    "user_email": "u_1791603304486705100@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Delivered",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791603313.703",
+    "scenario_id": "scn_demo",
+    "timestamp": "03:35:13 AM",
+    "user_email": "persist_medical_coordinator_1791603312577737700@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791603473.199",
+    "scenario_id": "scn_demo",
+    "timestamp": "03:37:53 AM",
+    "user_email": "sanjay@gmail.com",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791607422.710",
+    "scenario_id": "scn_403430f0",
+    "timestamp": "04:43:42 AM",
+    "user_email": "u_1791607420615687700@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Cancelled",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": "Batch dispatch #1"
+  },
+  {
+    "id": "disp_1791607425.515",
+    "scenario_id": "scn_853dc4a2",
+    "timestamp": "04:43:45 AM",
+    "user_email": "u_1791607423434232600@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Delivered",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791607432.628",
+    "scenario_id": "scn_demo",
+    "timestamp": "04:43:52 AM",
+    "user_email": "persist_medical_coordinator_1791607431468741300@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": "Restart survival dispatch"
+  },
+  {
+    "id": "disp_1791609826.862",
+    "scenario_id": "scn_a66c0de2",
+    "timestamp": "05:23:46 AM",
+    "user_email": "u_1791609825602998300@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Cancelled",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": "Batch dispatch #1"
+  },
+  {
+    "id": "disp_1791609828.363",
+    "scenario_id": "scn_e7bcaaa2",
+    "timestamp": "05:23:48 AM",
+    "user_email": "u_1791609827225757600@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Delivered",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791609832.235",
+    "scenario_id": "scn_demo",
+    "timestamp": "05:23:52 AM",
+    "user_email": "persist_medical_coordinator_1791609831521866800@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": "Restart survival dispatch"
+  },
+  {
+    "id": "disp_1791611392.358",
+    "scenario_id": "scn_7ee4aa6f",
+    "timestamp": "05:49:52 AM",
+    "user_email": "u_1791611390811940100@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Cancelled",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": "Batch dispatch #1"
+  },
+  {
+    "id": "disp_1791611394.935",
+    "scenario_id": "scn_7068918e",
+    "timestamp": "05:49:54 AM",
+    "user_email": "u_1791611392930235000@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Delivered",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": null
+  },
+  {
+    "id": "disp_1791611399.671",
+    "scenario_id": "scn_demo",
+    "timestamp": "05:49:59 AM",
+    "user_email": "persist_medical_coordinator_1791611398961771100@test.local",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 90.0,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": "Restart survival dispatch"
+  },
+  {
+    "id": "disp_1791614313.543",
+    "scenario_id": "scn_demo",
+    "timestamp": "06:38:33 AM",
+    "user_email": "sanjay@gmail.com",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 92.9,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": "All medical demand fully satisfied under proposed dispatch."
+  }
+]

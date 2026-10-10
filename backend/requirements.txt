@@ -1,0 +1,20 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.0
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+qiskit==1.2.4
+qiskit-aer==0.15.1
+# Pinned: 0.18.x ships an unsigned rustworkx.pyd that Windows Smart App Control
+# blocks. 0.15.1 has established cloud reputation and satisfies qiskit>=0.15.0.
+rustworkx==0.15.1
+python-dotenv==1.0.1
+httpx==0.28.1
+pytest==8.3.4
+
+# --- Authentication, RBAC and persistence (added for official-roles feature) ---
+pymongo==4.10.1
+bcrypt==4.2.1
+PyJWT==2.10.1

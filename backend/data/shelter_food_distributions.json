@@ -1,0 +1,478 @@
+[
+  {
+    "id": "fdist_1791607009.420",
+    "scenario_id": "scn_db1bfa14",
+    "timestamp": "04:36:49 AM",
+    "user_email": "u_1791607007438712900@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791607008.728",
+        "food_item_name": "Grains",
+        "quantity": 50,
+        "unit": "kg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "fdist_1791607200.879",
+    "scenario_id": "scn_a7f93645",
+    "timestamp": "04:40:00 AM",
+    "user_email": "u_1791607198683926500@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791607200.216",
+        "food_item_name": "Grains",
+        "quantity": 50,
+        "unit": "kg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "fdist_1791607202.979",
+    "scenario_id": "scn_129aad36",
+    "timestamp": "04:40:02 AM",
+    "user_email": "u_1791607201131383800@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "item_1791607202.732",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1800,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607203.406",
+    "scenario_id": "scn_129aad36",
+    "timestamp": "04:40:03 AM",
+    "user_email": "u_1791607201131383800@test.local",
+    "zone_id": "zone_bravo",
+    "zone_name": "Bravo",
+    "items": [
+      {
+        "food_item_id": "item_1791607202.732",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1400,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607203.827",
+    "scenario_id": "scn_129aad36",
+    "timestamp": "04:40:03 AM",
+    "user_email": "u_1791607201131383800@test.local",
+    "zone_id": "zone_charlie",
+    "zone_name": "Charlie",
+    "items": [
+      {
+        "food_item_id": "item_1791607202.732",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 300.0,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607282.750",
+    "scenario_id": "scn_def1109c",
+    "timestamp": "04:41:22 AM",
+    "user_email": "u_1791607279681787100@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791607281.915",
+        "food_item_name": "Grains",
+        "quantity": 50,
+        "unit": "kg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "fdist_1791607285.708",
+    "scenario_id": "scn_4bdb46a8",
+    "timestamp": "04:41:25 AM",
+    "user_email": "u_1791607283016043100@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "item_1791607285.382",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1800,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607286.236",
+    "scenario_id": "scn_4bdb46a8",
+    "timestamp": "04:41:26 AM",
+    "user_email": "u_1791607283016043100@test.local",
+    "zone_id": "zone_bravo",
+    "zone_name": "Bravo",
+    "items": [
+      {
+        "food_item_id": "item_1791607285.382",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1400,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607286.795",
+    "scenario_id": "scn_4bdb46a8",
+    "timestamp": "04:41:26 AM",
+    "user_email": "u_1791607283016043100@test.local",
+    "zone_id": "zone_charlie",
+    "zone_name": "Charlie",
+    "items": [
+      {
+        "food_item_id": "item_1791607285.382",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 300.0,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607355.867",
+    "scenario_id": "scn_97b52888",
+    "timestamp": "04:42:35 AM",
+    "user_email": "u_1791607353598967200@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791607355.076",
+        "food_item_name": "Grains",
+        "quantity": 50,
+        "unit": "kg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "fdist_1791607358.408",
+    "scenario_id": "scn_22d5adf5",
+    "timestamp": "04:42:38 AM",
+    "user_email": "u_1791607356164065900@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "item_1791607358.041",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1800,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607358.877",
+    "scenario_id": "scn_22d5adf5",
+    "timestamp": "04:42:38 AM",
+    "user_email": "u_1791607356164065900@test.local",
+    "zone_id": "zone_bravo",
+    "zone_name": "Bravo",
+    "items": [
+      {
+        "food_item_id": "item_1791607358.041",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1400,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607359.330",
+    "scenario_id": "scn_22d5adf5",
+    "timestamp": "04:42:39 AM",
+    "user_email": "u_1791607356164065900@test.local",
+    "zone_id": "zone_charlie",
+    "zone_name": "Charlie",
+    "items": [
+      {
+        "food_item_id": "item_1791607358.041",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 300.0,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607465.465",
+    "scenario_id": "scn_216fb19f",
+    "timestamp": "04:44:25 AM",
+    "user_email": "u_1791607463100345300@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791607464.575",
+        "food_item_name": "Grains",
+        "quantity": 50,
+        "unit": "kg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "fdist_1791607467.661",
+    "scenario_id": "scn_0d04d148",
+    "timestamp": "04:44:27 AM",
+    "user_email": "u_1791607465736945600@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "item_1791607467.325",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1800,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607468.063",
+    "scenario_id": "scn_0d04d148",
+    "timestamp": "04:44:28 AM",
+    "user_email": "u_1791607465736945600@test.local",
+    "zone_id": "zone_bravo",
+    "zone_name": "Bravo",
+    "items": [
+      {
+        "food_item_id": "item_1791607467.325",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1400,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791607468.596",
+    "scenario_id": "scn_0d04d148",
+    "timestamp": "04:44:28 AM",
+    "user_email": "u_1791607465736945600@test.local",
+    "zone_id": "zone_charlie",
+    "zone_name": "Charlie",
+    "items": [
+      {
+        "food_item_id": "item_1791607467.325",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 300.0,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791609851.693",
+    "scenario_id": "scn_0864c3c7",
+    "timestamp": "05:24:11 AM",
+    "user_email": "u_1791609850417827600@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791609851.313",
+        "food_item_name": "Grains",
+        "quantity": 50,
+        "unit": "kg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "fdist_1791609852.912",
+    "scenario_id": "scn_3ca67f11",
+    "timestamp": "05:24:12 AM",
+    "user_email": "u_1791609851848394700@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "item_1791609852.763",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1800,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791609853.129",
+    "scenario_id": "scn_3ca67f11",
+    "timestamp": "05:24:13 AM",
+    "user_email": "u_1791609851848394700@test.local",
+    "zone_id": "zone_bravo",
+    "zone_name": "Bravo",
+    "items": [
+      {
+        "food_item_id": "item_1791609852.763",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1400,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791609853.395",
+    "scenario_id": "scn_3ca67f11",
+    "timestamp": "05:24:13 AM",
+    "user_email": "u_1791609851848394700@test.local",
+    "zone_id": "zone_charlie",
+    "zone_name": "Charlie",
+    "items": [
+      {
+        "food_item_id": "item_1791609852.763",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 300.0,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791611337.795",
+    "scenario_id": "scn_0b31716d",
+    "timestamp": "05:48:57 AM",
+    "user_email": "u_1791611336143237900@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791611337.262",
+        "food_item_name": "Rice",
+        "quantity": 10,
+        "unit": "kg"
+      }
+    ],
+    "notes": "Distributed 10kg Rice to Alpha shelter"
+  },
+  {
+    "id": "fdist_1791611383.808",
+    "scenario_id": "scn_1b7f2d54",
+    "timestamp": "05:49:43 AM",
+    "user_email": "u_1791611382099803900@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791611383.153",
+        "food_item_name": "Rice",
+        "quantity": 10,
+        "unit": "kg"
+      }
+    ],
+    "notes": "Distributed 10kg Rice to Alpha shelter"
+  },
+  {
+    "id": "fdist_1791611419.083",
+    "scenario_id": "scn_1fb5a672",
+    "timestamp": "05:50:19 AM",
+    "user_email": "u_1791611417643182900@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791611418.583",
+        "food_item_name": "Grains",
+        "quantity": 50,
+        "unit": "kg"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "fdist_1791611420.418",
+    "scenario_id": "scn_6771fb70",
+    "timestamp": "05:50:20 AM",
+    "user_email": "u_1791611419224087200@test.local",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "item_1791611420.218",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1800,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791611420.685",
+    "scenario_id": "scn_6771fb70",
+    "timestamp": "05:50:20 AM",
+    "user_email": "u_1791611419224087200@test.local",
+    "zone_id": "zone_bravo",
+    "zone_name": "Bravo",
+    "items": [
+      {
+        "food_item_id": "item_1791611420.218",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 1400,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791611420.972",
+    "scenario_id": "scn_6771fb70",
+    "timestamp": "05:50:20 AM",
+    "user_email": "u_1791611419224087200@test.local",
+    "zone_id": "zone_charlie",
+    "zone_name": "Charlie",
+    "items": [
+      {
+        "food_item_id": "item_1791611420.218",
+        "food_item_name": "Emergency Rations Pool",
+        "quantity": 300.0,
+        "unit": "units"
+      }
+    ],
+    "notes": "Applied from proposal"
+  },
+  {
+    "id": "fdist_1791611643.121",
+    "scenario_id": "scn_demo",
+    "timestamp": "05:54:03 AM",
+    "user_email": "divakar@gmail.com",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_1791610257.940",
+        "food_item_name": "Rice Bags",
+        "quantity": 10,
+        "unit": "kg"
+      }
+    ],
+    "notes": ""
+  }
+]
