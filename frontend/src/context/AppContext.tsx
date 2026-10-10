@@ -35,9 +35,9 @@ export const DEFAULT_OPT_CONFIG: OptConfig = {
   zones_count: 4,
   resources: ['ambulances', 'rescue_teams', 'medical_kits', 'shelter_capacity'],
   reps: 1,
-  shots: 1024,
+  shots: 256,
   optimizer: 'COBYLA',
-  maxiter: 60,
+  maxiter: 10,
   seed: 42,
 }
 
