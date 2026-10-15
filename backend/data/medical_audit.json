@@ -1087,5 +1087,71 @@
     "reason": "Confirmed dispatch disp_1791614313.543",
     "stock_before": 1000,
     "stock_after": 85
+  },
+  {
+    "id": "audit_1791617981.335",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:39:41 AM",
+    "user_email": "sanjay@gmail.com",
+    "type": "inventory_addition",
+    "quantity": 100,
+    "reason": "add",
+    "stock_before": 85,
+    "stock_after": 185
+  },
+  {
+    "id": "audit_1791617988.807",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:39:48 AM",
+    "user_email": "sanjay@gmail.com",
+    "type": "baseline_reset",
+    "quantity": 1000,
+    "reason": "Reset medical baseline to 1,000 kits available / 915 demand across 6 zones",
+    "stock_before": 185,
+    "stock_after": 1000
+  },
+  {
+    "id": "audit_1791618005.397",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:40:05 AM",
+    "user_email": "sanjay@gmail.com",
+    "type": "dispatch_deduction",
+    "quantity": 915,
+    "reason": "Confirmed dispatch disp_1791618005.397",
+    "stock_before": 1000,
+    "stock_after": 85
+  },
+  {
+    "id": "audit_1791619427.877",
+    "scenario_id": "scn_demo",
+    "timestamp": "08:03:47 AM",
+    "user_email": "sanjay@gmail.com",
+    "type": "baseline_reset",
+    "quantity": 1000,
+    "reason": "Reset medical baseline to 1,000 kits available / 915 demand across 6 zones",
+    "stock_before": 85,
+    "stock_after": 1000
+  },
+  {
+    "id": "audit_1791619429.262",
+    "scenario_id": "scn_demo",
+    "timestamp": "08:03:49 AM",
+    "user_email": "sanjay@gmail.com",
+    "type": "baseline_reset",
+    "quantity": 1000,
+    "reason": "Reset medical baseline to 1,000 kits available / 915 demand across 6 zones",
+    "stock_before": 1000,
+    "stock_after": 1000
+  },
+  {
+    "id": "audit_1791619566.590",
+    "scenario_id": "scn_demo",
+    "timestamp": "08:06:06 AM",
+    "user_email": "sanjay@gmail.com",
+    "type": "dispatch_deduction",
+    "quantity": 915,
+    "reason": "Confirmed dispatch disp_1791619566.590",
+    "stock_before": 1000,
+    "stock_after": 85
   }
 ]

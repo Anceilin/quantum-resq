@@ -720,5 +720,37 @@
     "details": {
       "zone_id": "zone_alpha"
     }
+  },
+  {
+    "id": "sa_1791618079.924",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:41:19 AM",
+    "user_email": "divakar@gmail.com",
+    "type": "intake",
+    "description": "Intake of 10 people in Delta",
+    "details": {
+      "zone_id": "zone_delta",
+      "count": 10
+    }
+  },
+  {
+    "id": "sa_1791618122.890",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:42:02 AM",
+    "user_email": "divakar@gmail.com",
+    "type": "food_receive",
+    "description": "Received 100.0 kg of Rice",
+    "details": {}
+  },
+  {
+    "id": "sa_1791618132.064",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:42:12 AM",
+    "user_email": "divakar@gmail.com",
+    "type": "food_distribute",
+    "description": "Distributed food to Alpha",
+    "details": {
+      "zone_id": "zone_alpha"
+    }
   }
 ]

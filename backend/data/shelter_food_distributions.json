@@ -474,5 +474,22 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "fdist_1791618132.030",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:42:12 AM",
+    "user_email": "divakar@gmail.com",
+    "zone_id": "zone_alpha",
+    "zone_name": "Alpha",
+    "items": [
+      {
+        "food_item_id": "fi_demo_1",
+        "food_item_name": "Emergency Rations Pack",
+        "quantity": 10,
+        "unit": "units"
+      }
+    ],
+    "notes": ""
   }
 ]

@@ -141,5 +141,18 @@
     "occupancy_after": 100,
     "capacity": 300,
     "notes": "Test A intake"
+  },
+  {
+    "id": "si_1791618079.889",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:41:19 AM",
+    "user_email": "divakar@gmail.com",
+    "zone_id": "zone_delta",
+    "zone_name": "Delta",
+    "count": 10,
+    "occupancy_before": 200,
+    "occupancy_after": 210,
+    "capacity": 500,
+    "notes": "Person intake recorded"
   }
 ]

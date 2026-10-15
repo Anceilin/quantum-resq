@@ -1798,5 +1798,149 @@
       }
     ],
     "note": "All medical demand fully satisfied under proposed dispatch."
+  },
+  {
+    "id": "disp_1791618005.397",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:40:05 AM",
+    "user_email": "sanjay@gmail.com",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 92.9,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": "All medical demand fully satisfied under proposed dispatch."
+  },
+  {
+    "id": "disp_1791619566.590",
+    "scenario_id": "scn_demo",
+    "timestamp": "08:06:06 AM",
+    "user_email": "sanjay@gmail.com",
+    "total_dispatched": 915,
+    "remaining_stock_after": 85,
+    "status": "Confirmed",
+    "dispatches": [
+      {
+        "zone_id": "zone_alpha",
+        "zone_name": "Alpha",
+        "priority": 92.9,
+        "demand_before": 320,
+        "allocated_before": 0,
+        "dispatch_units": 320,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_bravo",
+        "zone_name": "Bravo",
+        "priority": 60.5,
+        "demand_before": 210,
+        "allocated_before": 0,
+        "dispatch_units": 210,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_charlie",
+        "zone_name": "Charlie",
+        "priority": 54.3,
+        "demand_before": 180,
+        "allocated_before": 0,
+        "dispatch_units": 180,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_delta",
+        "zone_name": "Delta",
+        "priority": 32.7,
+        "demand_before": 95,
+        "allocated_before": 0,
+        "dispatch_units": 95,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_echo",
+        "zone_name": "Echo",
+        "priority": 28.6,
+        "demand_before": 70,
+        "allocated_before": 0,
+        "dispatch_units": 70,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      },
+      {
+        "zone_id": "zone_foxtrot",
+        "zone_name": "Foxtrot",
+        "priority": 15.9,
+        "demand_before": 40,
+        "allocated_before": 0,
+        "dispatch_units": 40,
+        "demand_after": 0,
+        "status_after": "Fully Supplied"
+      }
+    ],
+    "note": "All medical demand fully satisfied under proposed dispatch."
   }
 ]

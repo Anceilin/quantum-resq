@@ -178,5 +178,23 @@
     "supplier": "",
     "notes": "Received batch 1",
     "status": "Received"
+  },
+  {
+    "id": "fd_1791618118.709",
+    "scenario_id": "scn_demo",
+    "timestamp": "07:41:58 AM",
+    "user_email": "divakar@gmail.com",
+    "food_item_name": "Rice",
+    "category": "packaged_meals",
+    "quantity": 100.0,
+    "received_quantity": 100.0,
+    "unit": "kg",
+    "destination": "central_warehouse",
+    "reason": "Emergency ration supply",
+    "priority": "normal",
+    "expected_date": "",
+    "supplier": "",
+    "notes": "Delivery received and stocked",
+    "status": "Received"
   }
 ]

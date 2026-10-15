@@ -214,7 +214,7 @@
     "scenario_id": "scn_demo",
     "name": "Emergency Rations Pack",
     "category": "packaged_meals",
-    "quantity": 3500.0,
+    "quantity": 3490.0,
     "unit": "units",
     "storage_location": "Central Depot",
     "source": "Regional Food Bank",
@@ -373,5 +373,20 @@
     "min_stock_threshold": 0.0,
     "notes": "Auto-created from scenario resource pool",
     "created_at": "05:50:20 AM"
+  },
+  {
+    "id": "fi_1791618122.683",
+    "scenario_id": "scn_demo",
+    "name": "Rice",
+    "category": "packaged_meals",
+    "quantity": 100.0,
+    "unit": "kg",
+    "storage_location": "central_warehouse",
+    "source": "",
+    "receipt_date": "",
+    "expiry_date": "",
+    "min_stock_threshold": 0.0,
+    "notes": "",
+    "created_at": "07:42:02 AM"
   }
 ]
